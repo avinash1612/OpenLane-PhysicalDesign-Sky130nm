@@ -41,3 +41,29 @@ Flop ratio was 10.84%
 
 ![assign1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/afd5387d-4c06-40c5-afb5-807a071cb3bf)
 
+Day2: 
+
+Floor planning:
+Utilisation factor of 0.5 and Aspect ratio of 1 were the design constraints.
+```
+FP_CORE_UTIL, FP_ASPECT_RATIO
+```
+were set accordingly in tcl script.
+Forcedirected Placement has been done. HPWL was used to estimate wirelength.
+To execute floorplan:
+```
+run_floorplan
+```
+![Capture1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/8c29b181-3365-4a70-a67a-e4edbade20c4)
+
+A reduction of 1.2% of wirelenght was observed.
+![Capture1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a16aff16-130d-4641-812b-5cf48a23c2b4)
+
+MAGIC was used to view the floor plan.
+![floorplan](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/d527b866-0578-4092-8666-d413f8e76654)
+![floor plan close up2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a26ef6e4-3fb3-41ce-b110-d46ec840e74b)
+
+
+![vsd inv 2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/c435c317-9194-40b9-bae5-64e38f901c28)
+
+
