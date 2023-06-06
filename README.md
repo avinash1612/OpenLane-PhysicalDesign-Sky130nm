@@ -68,7 +68,9 @@ Below is a snapshot of report generated after synthesis:
 ![assign1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/afd5387d-4c06-40c5-afb5-807a071cb3bf)
 
 
-## Floor planning:
+# Placement:
+
+## Floor Planning:
 Placement of Macros, IO pins, 
 
 Utilisation factor of 0.5 and Aspect ratio of 1 were the design constraints.
@@ -77,7 +79,7 @@ Utilisation factor of 0.5 and Aspect ratio of 1 were the design constraints.
 `FP_ASPECT_RATIO`
 
 were set accordingly in tcl script.
-Forcedirected Placement has been done. HPWL was used to estimate wirelength.
+Forcedirected Placement has been done. HPWL was used to estimate wirelength. MAGIC was used to view, debug the floor plan.
 To execute floorplan:
 ```
 run_floorplan
@@ -92,7 +94,7 @@ A reduction of 1.2% of wirelenght was observed.
 
 ![Capture1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a16aff16-130d-4641-812b-5cf48a23c2b4)
 
-MAGIC was used to view the floor plan.
+
 
 
 
