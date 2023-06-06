@@ -15,10 +15,10 @@ The tool has been accessed with "interactive" tag. Interactive mode of the tool 
 
 /PNR flow here/
 
-As part of the workshop, we were provided with image of virtual disk, that has all the necessary tools compiled in it. Tool can be installed from [OpenLANE installation](https://github.com/The-OpenROAD-Project/OpenLane)
+Tool can be installed from [OpenLANE installation](https://github.com/The-OpenROAD-Project/OpenLane)
 To invoke OpenLane tool chain in interactive mode: 
 
-*change directory to openlane working dir/openlane*
+<change directory to openlane working dir/openlane>
 docker
 `./flow.tcl - interactive`
 
