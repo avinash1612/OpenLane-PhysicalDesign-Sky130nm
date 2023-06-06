@@ -14,9 +14,9 @@ Digital ASIC Design, RTL2GDS Flow, Verilog HDL, Tcl scripting, STA, Spice deck c
 
 ### Tools:
 iverilog, yosys, abc, ngspice, MAGIC, OpenSTA, TritonCTS
-RTL2GDSII has been done for the design picorv32a. (picorv32a.v from [OpenLANE designs](https://github.com/The-OpenROAD-Project/OpenLane/tree/master/designs/picorv32a/src))
-## About the design:
 
+## About the design:
+RTL2GDSII has been done for the design picorv32a. (picorv32a.v from [OpenLANE designs](https://github.com/The-OpenROAD-Project/OpenLane/tree/master/designs/picorv32a/src))
 Day-1: Inception opf open-source EDA, OpenLANE and SKY Water 130nm PDK
 
 ### About the tool chain:
