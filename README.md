@@ -70,7 +70,7 @@ Below is a snapshot of report generated after synthesis:
 
 # Placement:
 
-## Floor Planning:
+### Floor Planning:
 Placement of Macros, IO pins, 
 
 Utilisation factor of 0.5 and Aspect ratio of 1 were the design constraints.
