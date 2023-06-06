@@ -10,8 +10,10 @@ University of Cincinnati, Ohio.
 email: kotaae@mail.uc.edu 
 
 ### Skills:
-Digital ASIC Design, RTL2GDS Flow, Verilog HDL, Tcl scripting, STA, Spice deck creation and simulation, Floor planning, Placement, Power Planning, Clock Tree Synthesis, Routing.
+Digital ASIC Design, RTL2GDS Flow, Verilog HDL, Tcl scripting, STA, Spice deck creation and simulation, Floor planning, Placement, Power Planning, Clock Tree Synthesis, Routing, ECO
 
+### Tools:
+iverilog, yosys, abc, ngspice, MAGIC, OpenSTA, TritonCTS
 RTL2GDSII has been done for the design picorv32a. (picorv32a.v from [OpenLANE designs](https://github.com/The-OpenROAD-Project/OpenLane/tree/master/designs/picorv32a/src))
 ## About the design:
 
