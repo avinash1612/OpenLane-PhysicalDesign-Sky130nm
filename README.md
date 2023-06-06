@@ -37,7 +37,6 @@ To invoke OpenLane tool chain in interactive mode: `./flow.tcl - interactive`
 
 Once this is done, setup package for the tool and then prepare design for the flow. 
 ````
-
 package require openlane 0.9
 prep -design picorv32a
 ````
