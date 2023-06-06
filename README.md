@@ -56,8 +56,9 @@ list of parameters that I tweaked:
   3. `$SYNTH_MAX_FANOUT` : Fanout has been restricted to reduce delay caused due to capacitive load and also help in meeting slack/timing requirements.
   4. `$SYNTH_STRATEGY` : DELAY and AREA are the two strategies that are currently supported by the tool. 
   
-
+Below is a snapshot of the terminal showing succesful completion of synthesis:
 ![synth2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/14ac00df-eb27-45f3-b4d4-60c18e47fc22)
+                                     Figure1: Synthesis
 
 
 Flop ratio was calculated after synthesis to estimate power consumption. 
