@@ -68,10 +68,13 @@ Below is a snapshot of report generated after synthesis:
 
 
 ## Floor planning:
+Placement of Macros, IO pins, 
+
 Utilisation factor of 0.5 and Aspect ratio of 1 were the design constraints.
-```
-FP_CORE_UTIL, FP_ASPECT_RATIO
-```
+
+`FP_CORE_UTIL`,
+`FP_ASPECT_RATIO`
+
 were set accordingly in tcl script.
 Forcedirected Placement has been done. HPWL was used to estimate wirelength.
 To execute floorplan:
@@ -79,6 +82,8 @@ To execute floorplan:
 run_floorplan
 ```
 ![Capture1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/8c29b181-3365-4a70-a67a-e4edbade20c4)
+
+file:///home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/03-06_05-38/results/floorplan/picorv32a.floorplan.def.png![image](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/6acce9d1-b5e7-4f7d-85ff-a0f0e8a24fc3)
 
 A reduction of 1.2% of wirelenght was observed.
 
