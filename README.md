@@ -77,4 +77,47 @@ ngspice has been used to simulate spice extracted from the layout.
 
 //spice simulation result here.
 
+TO THE VSD REVIEWER: I DID ALL THE LABS. WILL FINISH THIS WRITE UP SOON.
+![vsd_inv lef](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/3f882f6f-2f52-438d-92d9-7590df2fa854)
+![spice_inv_s1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/7d6db82c-548b-4db2-9ccb-6b530df5adba)
+
+![new_cf_delay](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/c45ee8f8-62c7-4116-b721-1759cdf94718)
+
+![rise_transition_80](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/90dad95a-afb3-4e6a-8581-7df0b8ec9ba4)
+![rise_20percent](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/13919d41-582e-4249-bbf3-4c0376492a27)
+![rise_transition_80](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/2b6b7b94-ef62-4436-8d53-f605e0f87ad2)
+
+DRC fixed:
+
+![drc fixed m3](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/37889393-8253-434e-abbb-a0abbab0f032)
+
+
+POLY DRC
+
+
+![drc check poly](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/52d66496-302d-43ca-b914-a29a7583ef56)
+
+
+N-Well
+
+
+![drc fixed nwell](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a3e9914d-624f-4c1c-b7ff-5593cf714fe5)
+
+
+![post routing](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/164b6481-2175-4720-a952-120a710c9c3a)
+
+![writing db and reading lib](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/7804650b-7c09-4861-8f4a-212d34b3397a)
+![slack met after cts2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/8e7b8703-e628-4acb-a657-e0e443cca33a)
+![slackmet fin](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/df943936-88e5-4cfe-ad62-d2b316a21858)
+
+
+GDS generated
+![gds generated](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a9569b6e-daf7-40d8-b006-3c8001934069)
+
+
+![gds generated 2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/ea542e65-b9fb-4e12-ab97-1ead85d20ede)
+
+
+
+
 
