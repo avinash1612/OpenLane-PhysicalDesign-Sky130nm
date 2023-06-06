@@ -83,9 +83,9 @@ run_floorplan
 ```
 ![Capture1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/8c29b181-3365-4a70-a67a-e4edbade20c4)
 
-![def fp](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/3f9ac5c3-de06-47d9-9642-27cb822c9d5d)
+![def fp](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/3f9ac5c3-de06-47d9-9642-27cb822c9d5d) ![floorplan](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/d527b866-0578-4092-8666-d413f8e76654)
 
-file:///home/vsduser/Desktop/work/tools/openlane_working_dir/openlane/designs/picorv32a/runs/03-06_05-38/results/floorplan/picorv32a.floorplan.def.png![image](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/6acce9d1-b5e7-4f7d-85ff-a0f0e8a24fc3)
+
 
 A reduction of 1.2% of wirelenght was observed.
 
@@ -93,7 +93,7 @@ A reduction of 1.2% of wirelenght was observed.
 
 MAGIC was used to view the floor plan.
 
-![floorplan](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/d527b866-0578-4092-8666-d413f8e76654)
+
 
 ![floor plan close up2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a26ef6e4-3fb3-41ce-b110-d46ec840e74b)
 
