@@ -44,10 +44,18 @@ prep -design picorv32a
 
 When the setup above is succesful, design can be synthesised using Yosys and abc. ABC is used for technology mapping.
 # Synthesis
-````
 
-run_synthesis
-````
+Yosys and ABC were used to perform Logic optimization and Technology Mapping.
+
+synthesis can be done using the command `run_synthesis`
+
+Parameters were set using config.tcl.
+list of parameters that I tweaked:
+  1. `$SYNTH_BUFFERING` : Enabling buffering increased area and delay but helped in keeping up the signal integrity.
+  2. `$SYNTH_SIZING` : Allowed sizing of cells to accomodate effective implementation of the strategy
+  3. `$SYNTH_MAX_FANOUT` : Fanout has been restricted to reduce delay caused due to capacitive load and also help in meeting slack/timing requirements.
+  4. `$SYNTH_STRATEGY`
+  
 
 ![synth2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/14ac00df-eb27-45f3-b4d4-60c18e47fc22)
 
