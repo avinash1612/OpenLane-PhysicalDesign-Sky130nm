@@ -6,7 +6,7 @@ To the reviewer: I am still updating this. I have not finished doing it. Yet to 
 Author: [Avinash Hegde](https://www.linkedin.com/in/avinashhegdek/)
 
 RTL2GDSII has been done for the design picorv32a. (picorv32a.v from [OpenLANE designs](https://github.com/The-OpenROAD-Project/OpenLane/tree/master/designs/picorv32a/src))
-
+## About the design:
 Skills gained: Digital ASIC Design, RTL2GDS Flow, OpenLANE, STA, Spice deck creation and simulation, Power Distribution, Clock Tree Synthesis, 
 Day-1: Inception opf open-source EDA, OpenLANE and SKY Water 130nm PDK
 
