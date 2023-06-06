@@ -2,8 +2,9 @@
 This repository is developed as part of Advanced Physical Design Project with help of VSD.
 To the reviewer: I am still updating this. I have not finished doing it. Yet to update the repo
 
-Project details: 
+##Project details: 
 Author: [Avinash Hegde](https://www.linkedin.com/in/avinashhegdek/)
+
 RTL2GDSII has been done for the design picorv32a. (picorv32a.v from [OpenLANE designs](https://github.com/The-OpenROAD-Project/OpenLane/tree/master/designs/picorv32a/src))
 
 Skills gained: Digital ASIC Design, RTL2GDS Flow, OpenLANE, STA, Spice deck creation and simulation, Power Distribution, Clock Tree Synthesis, 
