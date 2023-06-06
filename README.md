@@ -46,7 +46,7 @@ When the setup above is succesful, design can be synthesised using Yosys and abc
 
 Yosys and ABC were used to perform Logic optimization and Technology Mapping.
 
-synthesis can be done using the command `run_synthesis`
+Synthesis can be done using the command `run_synthesis`
 
 Parameters were set using config.tcl.
 list of parameters that I tweaked:
