@@ -58,9 +58,7 @@ list of parameters that I tweaked:
 Below is a snapshot of the terminal showing succesful completion of synthesis:
 ![synth2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/14ac00df-eb27-45f3-b4d4-60c18e47fc22)
 
-Netlist is generated
-
-Flop ratio was calculated after synthesis to estimate power consumption. 
+Netlist was generated. The netlist consists of 14876 cells. Out of which, 1613 are flipflops. Flop ratio was calculated after synthesis to estimate power consumption. 
 
 Flop ratio was 10.84%
 
