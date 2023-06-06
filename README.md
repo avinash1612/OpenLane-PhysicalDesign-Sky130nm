@@ -82,7 +82,7 @@ Paramteres that I have tweaked are:
 4. `$FP_IO_VMETAL`
 
 Forcedirected Placement has been done. HPWL was used to estimate wirelength. MAGIC was used to view, debug the floor plan.
-To execute floorplan:
+To generate floorplan:
 ```
 run_floorplan
 ```
@@ -96,13 +96,15 @@ A reduction of 1.2% of wirelenght was observed.
 
 ![Capture1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a16aff16-130d-4641-812b-5cf48a23c2b4)
 
+### Detailed Placement:
 
-
-
+```
+run_placement
+```
 
 ![floor plan close up2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a26ef6e4-3fb3-41ce-b110-d46ec840e74b)
 
-### Detailed Placement:
+
 
 ![inv included placement](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/06f3e37e-47bc-4216-8605-99d9c52c4330)
 
