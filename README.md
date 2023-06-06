@@ -58,7 +58,7 @@ list of parameters that I tweaked:
   
 Below is a snapshot of the terminal showing succesful completion of synthesis:
 ![synth2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/14ac00df-eb27-45f3-b4d4-60c18e47fc22)
-                                     Figure1: Synthesis
+                              Figure1: Synthesis
 
 
 Flop ratio was calculated after synthesis to estimate power consumption. 
