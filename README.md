@@ -59,7 +59,7 @@ Below is a snapshot of the terminal showing succesful completion of synthesis:
 ![synth2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/14ac00df-eb27-45f3-b4d4-60c18e47fc22)
 
 Netlist was generated. The netlist consists of 14876 cells. Out of which, 1613 are flipflops. Flop ratio was calculated after synthesis to estimate power consumption. 
-
+Flop ratio was calculated to estimate the power consumption because the power consumption reported by the tool does not account for clock until CTS. As clock tree is the most switching and power hungry network on chip, flop ratio was used to estimate it's power consumption. This gives the designer an idea and can help in thinking of alternatives in the very initial stages of design flow.
 Flop ratio was 10.84%
 
 ![assign1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/afd5387d-4c06-40c5-afb5-807a071cb3bf)
