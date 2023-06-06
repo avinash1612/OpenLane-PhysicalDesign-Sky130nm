@@ -17,11 +17,11 @@ The tool has been accessed with "interactive" tag. Interactive mode of the tool 
 
 As part of the workshop, we were provided with image of virtual disk, that has all the necessary tools compiled in it. Tool can be installed from [OpenLANE installation](https://github.com/The-OpenROAD-Project/OpenLane)
 To invoke OpenLane tool chain in interactive mode: 
-```
+
 *change directory to openlane working dir/openlane*
 docker
-./flow.tcl - interactive
-```
+`./flow.tcl - interactive`
+
 ![Capture](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/d385c6f6-24a4-4f1b-b162-4e980671cf39)
 
 Once this is done, setup package for the tool and then prepare design for the flow. 
