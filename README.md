@@ -32,7 +32,7 @@ prep -design picorv32a
 ````
 
 When the setup above is succesful, design can be synthesised using Yosys and abc. ABC is used for technology mapping.
-#Synthesis
+# Synthesis
 ````
 
 run_synthesis
