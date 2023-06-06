@@ -100,6 +100,10 @@ A reduction of 1.2% of wirelenght was observed.
 
 ![floor plan close up2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a26ef6e4-3fb3-41ce-b110-d46ec840e74b)
 
+### Detailed Placement:
+
+![inv included placement](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/06f3e37e-47bc-4216-8605-99d9c52c4330)
+
 Inverter Design: (cite vsdstdcelldesign git)
 
 Mag file of inverter has been cloned to perform spice simulation. 
