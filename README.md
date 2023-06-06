@@ -63,11 +63,11 @@ Flop ratio was calculated to estimate the power consumption because the power co
 
 Flop ratio was 10.84%
 
+Below is a snapshot of report generated after synthesis:
 ![assign1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/afd5387d-4c06-40c5-afb5-807a071cb3bf)
 
-Day2: 
 
-Floor planning:
+## Floor planning:
 Utilisation factor of 0.5 and Aspect ratio of 1 were the design constraints.
 ```
 FP_CORE_UTIL, FP_ASPECT_RATIO
