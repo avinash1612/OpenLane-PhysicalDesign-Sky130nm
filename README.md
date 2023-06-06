@@ -54,7 +54,7 @@ list of parameters that I tweaked:
   1. `$SYNTH_BUFFERING` : Enabling buffering increased area and delay but helped in keeping up the signal integrity.
   2. `$SYNTH_SIZING` : Allowed sizing of cells to accomodate effective implementation of the strategy
   3. `$SYNTH_MAX_FANOUT` : Fanout has been restricted to reduce delay caused due to capacitive load and also help in meeting slack/timing requirements.
-  4. `$SYNTH_STRATEGY`
+  4. `$SYNTH_STRATEGY` : DELAY and AREA are the two strategies that are currently supported by the tool. 
   
 
 ![synth2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/14ac00df-eb27-45f3-b4d4-60c18e47fc22)
