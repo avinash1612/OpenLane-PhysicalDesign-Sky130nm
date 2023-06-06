@@ -73,13 +73,14 @@ Below is a snapshot of report generated after synthesis:
 ### Floor Planning:
 Placement of Macros, IO pins, 
 
+Parameters were set accordingly in tcl script.
 Utilisation factor of 0.5 and Aspect ratio of 1 were the design constraints.
 Paramteres that I have tweaked are:
 1. `$FP_CORE_UTIL`,
 2. `$FP_ASPECT_RATIO`
 3. `$FP_IO_HMETAL`
 4. `$FP_IO_VMETAL`
-were set accordingly in tcl script.
+
 Forcedirected Placement has been done. HPWL was used to estimate wirelength. MAGIC was used to view, debug the floor plan.
 To execute floorplan:
 ```
