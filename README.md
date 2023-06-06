@@ -1,5 +1,5 @@
 # OpenLane-PhysicalDesign-Sky130nm
-This repository is developed as part of Advanced Physical Design Project with help of VSD.
+This repository is developed as part of 130nm Advanced Physical Design Project with help of VSD.
 # To the reviewer: I am still updating this. I have not finished doing it. Yet to update the repo
 
 ## Project details: 
@@ -58,9 +58,8 @@ list of parameters that I tweaked:
   
 Below is a snapshot of the terminal showing succesful completion of synthesis:
 ![synth2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/14ac00df-eb27-45f3-b4d4-60c18e47fc22)
-                              
-                              Figure1: Synthesis
 
+Netlist is generated
 
 Flop ratio was calculated after synthesis to estimate power consumption. 
 
