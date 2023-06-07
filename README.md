@@ -164,6 +164,7 @@ The snapshot below shows succesful execution of the command:
 The genration of GDSII is confirmed by this snapshot below:
 ![gds generated 2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/ea542e65-b9fb-4e12-ab97-1ead85d20ede)
 
+Image below is of a GDSII file captured using KLayout:
 <img src = "https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/b82601b9-ae85-45b1-9713-534d28300d09" width =50%>
 
 
