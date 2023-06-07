@@ -28,6 +28,17 @@ The tool has been accessed with "interactive" tag. Interactive mode of the tool 
 
 Tool chain can be installed from [OpenLANE installation](https://github.com/The-OpenROAD-Project/OpenLane)
 
+FLow of the tool:
+1. Synthesis
+2. Floor Planning
+3. Power Planning
+4. Placement
+5. Clock Tree Synthesis
+6. Routing
+7. Signoff
+
+STA after Synthesis, Placement and Routing. ECO (Engineering Change of Order) is also supported by the tool. 
+The tool supports changes on the fly. 
 # RTL2GDSII of picorv32a -riscv architecture
 change directory to openlane working dir/openlane
 
