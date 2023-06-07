@@ -23,9 +23,8 @@ Day-1: Inception opf open-source EDA, OpenLANE and SKY Water 130nm PDK
 OpenLANE has been usted to perform RTL2GDSII. OpenLane is an open source ASIC design flow that can be used for tapeouts. It is a compilation of Yosys, abc, openROAD, FAULT, MAGIC, OpenSTA, ngspice and many other tools.
 The tool has been accessed with "interactive" tag. Interactive mode of the tool will need manual intervention in each step to launch tool at every stage of the flow. 
 
-/PNR flow here/
 
-Tool can be installed from [OpenLANE installation](https://github.com/The-OpenROAD-Project/OpenLane)
+Tool chain can be installed from [OpenLANE installation](https://github.com/The-OpenROAD-Project/OpenLane)
 
 change directory to openlane working dir/openlane
 
