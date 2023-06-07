@@ -132,10 +132,6 @@ Rise time for the CMOS inverter = 2.40 - 2.34 = 0.06 ns = 60 pico seconds
 Fall time: Time taken for the output to fall from 80% to 20%.
 
 Fall time for the CMOS inverter = 4.15 - 4.08 = 0.07 ns = 70 pico seconds
-![new_cf_delay](https://github.comavinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/c45ee8f8-62c7-4116-b721-1759cdf94718)
-
-![rise_transition_80](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/90dad95a-afb3-4e6a-8581-7df0b8ec9ba4)
-![rise_20percent](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/13919d41-582e-4249-bbf3-4c0376492a27)
 
 
 DRC fixed:
