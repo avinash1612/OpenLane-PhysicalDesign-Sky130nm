@@ -28,6 +28,7 @@ The tool has been accessed with "interactive" tag. Interactive mode of the tool 
 
 Tool chain can be installed from [OpenLANE installation](https://github.com/The-OpenROAD-Project/OpenLane)
 
+# RTL2GDSII of picorv32a -riscv architecture
 change directory to openlane working dir/openlane
 
 Initiate docker using `docker`.
