@@ -56,6 +56,7 @@ list of parameters that I tweaked:
   4. `$SYNTH_STRATEGY` : DELAY and AREA are the two strategies that are currently supported by the tool. 
   
 Below is a snapshot of the terminal showing succesful completion of synthesis:
+
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/14ac00df-eb27-45f3-b4d4-60c18e47fc22" width =50%>
 
 Netlist was generated. The netlist consists of 14876 cells. Out of which, 1613 are flipflops. Flop ratio was calculated after synthesis to estimate power consumption. 
@@ -65,7 +66,7 @@ Flop ratio was 10.84%
 
 Below is a snapshot of report generated after synthesis:
 
-![assign1](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/afd5387d-4c06-40c5-afb5-807a071cb3bf)
+<img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/afd5387d-4c06-40c5-afb5-807a071cb3bf" width =50% height =50%>
 
 
 # Placement:
