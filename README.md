@@ -176,9 +176,14 @@ N-Well
 ![slack met after cts2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/8e7b8703-e628-4acb-a657-e0e443cca33a)
 ![slackmet fin](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/df943936-88e5-4cfe-ad62-d2b316a21858)
 
+## Engineering Change of Order
+Any deviation (typically going to a previous step or to the initial step) to meet some design specifications (generally timing) is called ECO. Any such change at a particular level will have consequences in upcoming (and/or previous) previous stages of the flow. It is important for a PD engineer to ensure that all files are updated based on ECO performed.
+
+I have had to change few synthesis parameters and strategies in tcl script to meet timing. This caused a chnage in netlist and there-by, I had to re-run all the commands in the flow. 
+Negative slack is never allowed. Positive slack within 10% of the clock period is the worst case allowed depending upon the design. 
 
 ## GDSII generation:
-
+Right before GDSII extraction, SPEF (Standard Parasitic Extraction Format) has been extracted. Multi-corner STA will be take SPEF into consideration.  
 I have used `run_magic` in openLANE to generate GDSII. GDSII is geometric data stream and not human readable like CIF. 
 
 The snapshot below shows succesful execution of the command:
