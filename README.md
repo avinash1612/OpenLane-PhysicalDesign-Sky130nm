@@ -179,7 +179,7 @@ N-Well
 ## Engineering Change of Order
 Any deviation (typically going to a previous step or to the initial step) to meet some design specifications (generally timing) is called ECO. Any such change at a particular level will have consequences in upcoming (and/or previous) previous stages of the flow. It is important for a PD engineer to ensure that all files are updated based on ECO performed.
 
-I have had to change few synthesis parameters and strategies in tcl script to meet timing. This caused a chnage in netlist and there-by, I had to re-run all the commands in the flow. 
+I have had to change few synthesis parameters and strategies in tcl script to meet timing. This caused a change in netlist and there-by, I had to re-run all the commands in the flow. 
 Negative slack is never allowed. Positive slack within 10% of the clock period is the worst case allowed depending upon the design. 
 
 ## GDSII generation:
