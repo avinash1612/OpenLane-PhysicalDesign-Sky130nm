@@ -123,6 +123,7 @@ TO THE VSD REVIEWER: I DID ALL THE LABS. WILL FINISH THIS WRITE UP SOON.
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/3f882f6f-2f52-438d-92d9-7590df2fa854" width=50%>
 
 The image below is a snapshot of spice simulation (transient analysis) of custom inverter using ngspice:
+
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/7d6db82c-548b-4db2-9ccb-6b530df5adba" width=50%>
 
 Rise time: Time taken for the output to rise from 20% to 80%.
@@ -134,7 +135,7 @@ Fall time: Time taken for the output to fall from 80% to 20%.
 Fall time for the CMOS inverter = 4.15 - 4.08 = 0.07 ns = 70 pico seconds
 
 
-DRC fixed:
+### DRC fixed for Sky130 exercises:
 
 ![drc fixed m3](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/37889393-8253-434e-abbb-a0abbab0f032)
 
