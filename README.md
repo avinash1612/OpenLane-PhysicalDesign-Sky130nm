@@ -157,9 +157,11 @@ N-Well
 
 I have used `run_magic` in openLANE to generate GDSII. GDSII is geometric data stream and not human readable like CIF. 
 
+The snapshot below shows succesful execution of the command:
+
 ![gds generated](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a9569b6e-daf7-40d8-b006-3c8001934069)
 
-
+The genration of GDSII is confirmed by this snapshot below:
 ![gds generated 2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/ea542e65-b9fb-4e12-ab97-1ead85d20ede)
 
 
