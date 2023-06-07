@@ -117,17 +117,26 @@ Mag file of inverter has been cloned to perform spice simulation.
 
 ngspice has been used to simulate spice extracted from the layout. 
 
-//spice simulation result here.
+
 
 TO THE VSD REVIEWER: I DID ALL THE LABS. WILL FINISH THIS WRITE UP SOON.
 ![vsd_inv lef](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/3f882f6f-2f52-438d-92d9-7590df2fa854)
+
+The image below is a snapshot of spice simulation (transient analysis) of custom inverter using ngspice:
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/7d6db82c-548b-4db2-9ccb-6b530df5adba" width=50%>
 
-![new_cf_delay](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/c45ee8f8-62c7-4116-b721-1759cdf94718)
+Rise time: Time taken for the output to rise from 20% to 80%.
+
+Rise time for the CMOS inverter = 2.40 - 2.34 = 0.06 ns = 60 pico seconds
+
+Fall time: Time taken for the output to fall from 80% to 20%.
+
+Fall time for the CMOS inverter = 4.15 - 4.08 = 0.07 ns = 70 pico seconds
+![new_cf_delay](https://github.comavinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/c45ee8f8-62c7-4116-b721-1759cdf94718)
 
 ![rise_transition_80](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/90dad95a-afb3-4e6a-8581-7df0b8ec9ba4)
 ![rise_20percent](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/13919d41-582e-4249-bbf3-4c0376492a27)
-![rise_transition_80](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/2b6b7b94-ef62-4436-8d53-f605e0f87ad2)
+
 
 DRC fixed:
 
