@@ -105,9 +105,11 @@ The snapshot below is an image of floor plan captured by KLayout:
 
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/3f9ac5c3-de06-47d9-9642-27cb822c9d5d" width =50% height=50%>
 
+
 The image below is from MAGIC Layout tool:
 
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/d527b866-0578-4092-8666-d413f8e76654" width =50% height=50%>
+
 
 
 The image below has been used to perform sanity check after floor planning.
