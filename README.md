@@ -39,7 +39,7 @@ FLow of the tool:
 
 STA after Synthesis, Placement and Routing. ECO (Engineering Change of Order) is also supported by the tool. 
 The tool supports changes to configuration on the fly. 
-# RTL2GDSII of picorv32a -riscv architecture
+# RTL2GDSII of picorv32a -RISCV architecture
 change directory to openlane working dir/openlane
 
 Initiate docker using `docker`.
