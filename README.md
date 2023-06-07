@@ -168,6 +168,7 @@ The genration of GDSII is confirmed by this snapshot below:
 ## Acknowledgement
 
 Kunal Ghosh - VLSI System Design Corp.
+
 Nickson Jose - Instructor, VSD Corp.
 
 
