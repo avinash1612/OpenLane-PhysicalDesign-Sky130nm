@@ -100,9 +100,6 @@ To generate floorplan:
 ```
 run_floorplan
 ```
-The image below has been used to perform sanity check after floor planning.
-
-<img src = "https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/8c29b181-3365-4a70-a67a-e4edbade20c4" width =50% height=50%>
 
 The snapshot below is an image of floor plan captured by KLayout:
 
@@ -113,7 +110,7 @@ The image below is from MAGIC Layout tool:
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/d527b866-0578-4092-8666-d413f8e76654" width =50% height=50%>
 
 
-
+The image below has been used to perform sanity check after floor planning.
 A reduction of 1.2% of wirelenght was observed.
 
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a16aff16-130d-4641-812b-5cf48a23c2b4" width =50% height=50%>
