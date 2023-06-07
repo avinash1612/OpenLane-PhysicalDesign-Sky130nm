@@ -1,6 +1,6 @@
 # OpenLane-PhysicalDesign-Sky130nm
 This repository is developed as part of 130nm Advanced Physical Design Project with help of VSD.
-# To the reviewer: I am still updating this. I have not finished doing it. Yet to update the repo
+
 
 ## Project details: 
 Author: [Avinash Hegde](https://www.linkedin.com/in/avinashhegdek/)
