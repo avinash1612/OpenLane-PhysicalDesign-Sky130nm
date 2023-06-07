@@ -153,7 +153,7 @@ N-Well
 ![slackmet fin](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/df943936-88e5-4cfe-ad62-d2b316a21858)
 
 
-##GDSII generation:
+## GDSII generation:
 
 I have used `run_magic` in openLANE to generate GDSII. GDSII is geometric data stream and not human readable like CIF. 
 
