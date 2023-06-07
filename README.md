@@ -165,6 +165,9 @@ The genration of GDSII is confirmed by this snapshot below:
 ![gds generated 2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/ea542e65-b9fb-4e12-ab97-1ead85d20ede)
 
 
+## Acknowledgement
 
+Kunal Ghosh - VLSI System Design Corp.
+Nickson Jose - Instructor, VSD Corp.
 
 
