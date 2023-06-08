@@ -15,7 +15,7 @@ email: kotaae@mail.uc.edu
 Digital ASIC Design, RTL2GDS Flow, Verilog HDL, Tcl scripting, STA, Spice deck creation and simulation, Floor planning, Placement, Power Planning, Clock Tree Synthesis, Routing, ECO
 
 ### Tools:
-iverilog, yosys, abc, ngspice, MAGIC, OpenSTA, TritonRoute
+ ModelSim, Xilinx Vivado, Synopsys Design Compiler, TetraMax, Hspice, iverilog, yosys, abc, ngspice, MAGIC, OpenSTA, TritonRoute
 
 ## About the design:
 RTL2GDSII has been done for the design picorv32a. (picorv32a.v from [OpenLANE designs](https://github.com/The-OpenROAD-Project/OpenLane/tree/master/designs/picorv32a/src))
