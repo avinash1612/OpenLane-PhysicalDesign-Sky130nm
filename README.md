@@ -19,7 +19,6 @@ iverilog, yosys, abc, ngspice, MAGIC, OpenSTA, TritonRoute
 
 ## About the design:
 RTL2GDSII has been done for the design picorv32a. (picorv32a.v from [OpenLANE designs](https://github.com/The-OpenROAD-Project/OpenLane/tree/master/designs/picorv32a/src))
-Day-1: Inception opf open-source EDA, OpenLANE and SKY Water 130nm PDK
 
 ### About the tool chain:
 OpenLANE has been usted to perform RTL2GDSII. OpenLane is an open source ASIC design flow that can be used for tapeouts. It is a compilation of Yosys, abc, openROAD, FAULT, MAGIC, OpenSTA, ngspice and many other tools.
