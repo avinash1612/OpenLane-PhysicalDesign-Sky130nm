@@ -136,7 +136,7 @@ ngspice has been used to simulate spice extracted from the layout.
 
 
 
-TO THE VSD REVIEWER: I DID ALL THE LABS. WILL FINISH THIS WRITE UP SOON.
+
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/3f882f6f-2f52-438d-92d9-7590df2fa854" width=50%>
 
 The image below is a snapshot of spice simulation (transient analysis) of custom inverter using ngspice:
