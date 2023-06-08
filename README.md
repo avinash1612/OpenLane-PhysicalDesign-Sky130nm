@@ -125,7 +125,7 @@ A reduction of 1.2% of wirelenght was observed.
 run_placement
 ```
 
-![inv included placement](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/06f3e37e-47bc-4216-8605-99d9c52c4330)
+<img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/06f3e37e-47bc-4216-8605-99d9c52c4330" width =50%>
 
 Inverter Design: (cite vsdstdcelldesign git)
 
