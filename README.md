@@ -155,24 +155,24 @@ Fall time for the CMOS inverter = 4.15 - 4.08 = 0.07 ns = 70 pico seconds
 
 ### DRC fixed for Sky130 exercises:
 
-![drc fixed m3](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/37889393-8253-434e-abbb-a0abbab0f032)
+<img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/37889393-8253-434e-abbb-a0abbab0f032" width =50%>
 
 
 POLY DRC
 
 
-![drc check poly](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/52d66496-302d-43ca-b914-a29a7583ef56)
+<img src="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/52d66496-302d-43ca-b914-a29a7583ef56" width =50%>
 
 
 N-Well
 
 
-![drc fixed nwell](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a3e9914d-624f-4c1c-b7ff-5593cf714fe5)
+<img src="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a3e9914d-624f-4c1c-b7ff-5593cf714fe5" width =50%>
 
 
-![post routing](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/164b6481-2175-4720-a952-120a710c9c3a)
+<img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/164b6481-2175-4720-a952-120a710c9c3a" width =50%>
 
-![writing db and reading lib](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/7804650b-7c09-4861-8f4a-212d34b3397a)
+<img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/7804650b-7c09-4861-8f4a-212d34b3397a" width =50%>
 
 ## Static Timing Analysis
 
