@@ -118,7 +118,7 @@ A reduction of 1.2% of wirelenght was observed.
 <img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a16aff16-130d-4641-812b-5cf48a23c2b4" width =50% height=50%>
 
 
-![floor plan close up2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a26ef6e4-3fb3-41ce-b110-d46ec840e74b)
+<img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/a26ef6e4-3fb3-41ce-b110-d46ec840e74b" width=50%>
 ### Detailed Placement:
 
 ```
@@ -131,7 +131,7 @@ Inverter Design: (cite vsdstdcelldesign git)
 
 Mag file of inverter has been cloned to perform spice simulation. 
 
-![vsd inv 2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/c435c317-9194-40b9-bae5-64e38f901c28)
+<img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/c435c317-9194-40b9-bae5-64e38f901c28" width=50%>
 
 ngspice has been used to simulate spice extracted from the layout. 
 
