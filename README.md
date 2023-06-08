@@ -177,9 +177,9 @@ N-Well
 ## Static Timing Analysis
 
 Static Timing Analysis has been done using OpenSTA. ECO had to be performed to meet timing. 
-![slack met after cts2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/8e7b8703-e628-4acb-a657-e0e443cca33a)
+<img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/8e7b8703-e628-4acb-a657-e0e443cca33a" width =50%>
 
-![slackmet fin](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/df943936-88e5-4cfe-ad62-d2b316a21858)
+<img src ="https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/df943936-88e5-4cfe-ad62-d2b316a21858" width =50%>
 
 ## Engineering Change of Order
 Any deviation (typically going to a previous step or to the initial step) to meet some design specifications (generally timing) is called ECO. Any such change at a particular level will have consequences in upcoming (and/or previous) previous stages of the flow. It is important for a PD engineer to ensure that all files are updated based on ECO performed.
