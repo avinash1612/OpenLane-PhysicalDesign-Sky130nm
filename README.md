@@ -175,6 +175,8 @@ N-Well
 ![writing db and reading lib](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/7804650b-7c09-4861-8f4a-212d34b3397a)
 
 ## Static Timing Analysis
+
+Static Timing Analysis has been done using OpenSTA. ECO had to be performed to meet timing. 
 ![slack met after cts2](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/8e7b8703-e628-4acb-a657-e0e443cca33a)
 
 ![slackmet fin](https://github.com/avinash1612/OpenLane-PhysicalDesign-Sky130nm/assets/56393465/df943936-88e5-4cfe-ad62-d2b316a21858)
