@@ -9,7 +9,7 @@ Graduate Student, MS in Computer Engineering,
 University of Cincinnati, Ohio.
 email: kotaae@mail.uc.edu 
 
-[download resume](https://drive.google.com/file/d/1fOp8KbST3ORz1C_pTM0kOqxlV9MWPh1p/view?usp=sharing)
+[download resume](https://bit.ly/Avinash_Resume)
   
 ### Skills:
 Digital ASIC Design, RTL2GDS Flow, Verilog HDL, Tcl scripting, STA, Spice deck creation and simulation, Floor planning, Placement, Power Planning, Clock Tree Synthesis, Routing, ECO
